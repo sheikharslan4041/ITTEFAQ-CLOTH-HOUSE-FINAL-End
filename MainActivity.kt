@@ -1,4 +1,4 @@
-package com.ittefaq.analytics
+package com.ittefaq.clothhouse
 
 import android.app.*
 import android.os.*
