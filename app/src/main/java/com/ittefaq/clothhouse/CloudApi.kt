@@ -1,5 +1,4 @@
-package com.ittefaq.analytics
-
+package com.ittefaq.clothhouse
 import android.content.Context
 import org.json.JSONArray
 import org.json.JSONObject
